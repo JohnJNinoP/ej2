@@ -3,7 +3,7 @@ import { FormBuilder,FormGroup, Validators} from '@angular/forms';
 
 @Component({
   selector: 'app-home',
-  templateUrl : "../home.components.html" ,
+  templateUrl : "./home.components.html" ,
   styles: [
   ]
 })
